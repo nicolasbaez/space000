@@ -1,4 +1,4 @@
-: : s p a c e 0 0 0
+#: : s p a c e 0 0 0
 
 ![space](https://github.com/nicolasbaez/space000/blob/master/space000.gif)
 
